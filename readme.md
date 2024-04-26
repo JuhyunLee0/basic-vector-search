@@ -1,0 +1,1 @@
+sample code to run vector search using Azure OpenAI and Azure AI Search REST api
