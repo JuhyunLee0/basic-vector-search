@@ -1,1 +1,6 @@
 requests
+python-dotenv
+azure-search-documents==11.6.0b3
+azure-identity
+openai
+PyPDF2
